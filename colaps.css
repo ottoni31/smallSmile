@@ -13,8 +13,23 @@ th{
 }
 tr:nth-child(odd){
     color: lawngreen;
-
-
-
-    
 }
+/* a{
+    color: black;
+} */
+a:link{
+    color: red;
+}
+/* a:visited{
+    color: #437A16;
+} */
+/* a:focus{
+    border-bottom: 1px solid; background: blue;
+} */
+/* a:hover{
+    border-bottom: 1px solid; background: blue;
+} */
+/* a:active{
+    background: rgb(198, 56, 153);
+    color: rgb(254, 254, 254);
+} */
